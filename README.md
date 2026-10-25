@@ -25,7 +25,7 @@ The goal of the assignment is to learn how to work with objects in JS.
       * @return {string}
       *
       * @example
-      *   'aa', 'bb' => 'aabb'
+      *   'aa', 'bb' => 'aabb'[]
       *   'aa',''    => 'aa'
       *   '',  'bb'  => 'bb'
       */
